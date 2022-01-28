@@ -1,0 +1,36 @@
+*
+{
+    padding:0;
+    margin:0;
+}
+.flex-box
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.entire
+{
+    height:100vh;
+    min-width:800px;
+    margin: 0 auto;
+    background-color: #ACC8E5;
+}
+.container
+{
+flex-direction: column;
+height: 50vh;
+margin-bottom:200px;
+}
+.heading
+{
+    margin-bottom:100px;
+}
+.fa-star
+{
+ font-size:xx-large;
+}
+.active
+{
+    color:yellow;
+}
